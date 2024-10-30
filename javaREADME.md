@@ -12,15 +12,15 @@ of encapsulating logic in methods and designing a replayable game loop.
 Software Demo Video: https://youtu.be/ufj_5Ib5-Vw
 
 Development Environment
-The software was developed using the following tools:
-
 IDE: IntelliJ IDEA
 Java Version: Java SE 17
 Libraries: Core Java libraries java.util.Random for random number generation and java.util.Scanner for handling user input.
+
 Useful Websites
-Oracle Java Documentation - Comprehensive resource for Java language documentation and library references.
-W3Schools Java Tutorial - Helpful for quick syntax references and examples.
-Stack Overflow - Useful for troubleshooting specific coding issues and exploring various Java-related discussions.
+Oracle Java Documentation(https://docs.oracle.com/en/java/) - Comprehensive resource for Java language documentation and library references.
+W3Schools Java Tutorial(https://www.w3schools.com/java/default.asp) - Helpful for quick syntax references and examples.
+Stack Overflow(https://stackoverflow.com/) - Useful for troubleshooting specific coding issues and exploring various Java-related discussions.
+
 Future Work
 Add a difficulty selection option to adjust the guessing range.
 Implement a graphical interface to make the game more visually engaging.
